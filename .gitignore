@@ -41,3 +41,11 @@
 /var/package/*
 !/var/package/*.xml
 
+node_modules/
+.gatsby-context.js
+.DS_Store
+.intermediate-representation/
+.cache/
+yarn.lock
+.idea
+
